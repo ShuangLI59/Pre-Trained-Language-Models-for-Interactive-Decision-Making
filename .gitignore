@@ -1,0 +1,14 @@
+virtualhome.zip
+virtualhome/
+behavior_cloning/checkpoint/
+behavior_cloning/Output/
+behavior_cloning_inference/checkpoint/
+behavior_cloning_inference/Output/
+data/
+
+behavior_cloning/*.txt
+behavior_cloning/*.pyc
+*/.DS_Store
+*/*.DS_Store
+.DS_Store
+*.DS_Store

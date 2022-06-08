@@ -1,0 +1,14 @@
+{
+	"container_classes": [
+		"toilet",
+        "bathroom_cabinet",
+        "kitchencabinets",
+        "bathroom_counter",
+        "kitchen_counter",
+        "cabinet",
+        "fridge",
+        "oven",
+        "dishwasher",
+        "microwave"
+	]
+}
